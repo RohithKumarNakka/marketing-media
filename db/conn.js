@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 dotenv.config({ path: "./cofig.env" });
 
-const DB = process.env.DATABASE;
+const DB = process.env.DATABASE || process.env.MONGODB_URI;
 
 mongoose
   .connect(DB, {
