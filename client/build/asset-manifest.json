@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df8cea81.chunk.css",
+    "main.js": "/static/js/main.380912ee.chunk.js",
+    "main.js.map": "/static/js/main.380912ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cc573c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cc573c1.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.54cb97f9.chunk.js": "/static/js/2.54cb97f9.chunk.js",
+    "static/js/2.54cb97f9.chunk.js.map": "/static/js/2.54cb97f9.chunk.js.map",
+    "static/js/3.4e402d6b.chunk.js": "/static/js/3.4e402d6b.chunk.js",
+    "static/js/3.4e402d6b.chunk.js.map": "/static/js/3.4e402d6b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.df8cea81.chunk.css.map": "/static/css/main.df8cea81.chunk.css.map",
+    "static/js/2.54cb97f9.chunk.js.LICENSE.txt": "/static/js/2.54cb97f9.chunk.js.LICENSE.txt",
+    "static/media/PPLogo.fd62f6d0.png": "/static/media/PPLogo.fd62f6d0.png",
+    "static/media/PaperandPosterLogo.8599105d.png": "/static/media/PaperandPosterLogo.8599105d.png",
+    "static/media/StewpidsCafe.70e6c087.png": "/static/media/StewpidsCafe.70e6c087.png",
+    "static/media/login.24119542.svg": "/static/media/login.24119542.svg",
+    "static/media/rohith.629b8fb4.jpg": "/static/media/rohith.629b8fb4.jpg",
+    "static/media/signup.49e79a86.svg": "/static/media/signup.49e79a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cc573c1.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.54cb97f9.chunk.js",
+    "static/css/main.df8cea81.chunk.css",
+    "static/js/main.380912ee.chunk.js"
+  ]
+}
